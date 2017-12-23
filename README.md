@@ -1,3 +1,3 @@
 # hello-world
-Repository
 
+My name is Jeff, and I am learning from scratch to develop my own website!!
